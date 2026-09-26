@@ -1,0 +1,8 @@
+# Personal playlist (keep queue.m3u.example as the template instead)
+queue.m3u
+
+# Downloaded media / working state, in case DownloadDir is pointed inside the repo
+*.mp4
+*.webm
+*.mkv
+.queue_state
