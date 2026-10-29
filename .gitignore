@@ -6,3 +6,5 @@ queue.m3u
 *.webm
 *.mkv
 .queue_state
+.ytdlp_last_update
+*.bak
