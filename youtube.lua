@@ -1,7 +1,7 @@
 -- YouTube Link Resolver for VLC with Separate Video and Audio URLs
 -- Place this script in VLC's lua/playlist directory
 -- Source: https://github.com/FalloNero/yt-dlp4vlc
--- Local patch: probe() operator precedence (reported upstream as issue #N)
+-- Local patch: probe() operator precedence (reported upstream as issue #6)
 
 local yt_dlp_path = 'yt-dlp.exe';
 local yt_dlp_silent_path = 'ytdlp-silent-xp.exe';
